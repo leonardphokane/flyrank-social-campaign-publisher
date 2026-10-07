@@ -195,7 +195,7 @@ Write-Host "🎯 Backend test flow complete!"
 ---
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 flyrank-capstone-social/
 │   .env
@@ -252,7 +252,7 @@ This screenshot shows the React UI with caption + image path input fields and th
 
 ---
 
-📑 Required Files
+## 📑 Required Files
 README.md — this file
 
 capstone.yaml — manifest for evaluator
@@ -265,13 +265,22 @@ BUILDLOG.md — AI usage log
 
 .env — runtime secrets (ignored by Git)
 
+---
+
 ### ⚠️ Limitations
 Fake platform adapters simulate publishing; real platform publishing is optional stretch goal.
 
 Focus is backend reliability, not artistic image quality.
 
-📜 License
+---
+
+## 📜 License
 MIT License — free to use and learn from.
+
+---
+## Portfolio Highlight
+![Portfolio Highlight](images/portfolio-highlight.png)
+*Showcasing backend reliability engineering and LLM integration in a production‑style project.*
 
 ---
 
