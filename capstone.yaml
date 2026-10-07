@@ -1,0 +1,19 @@
+# capstone.yaml
+run: "docker compose up && npm start"
+seed: "npm run seed"
+test: "npm test"
+base_url: "http://localhost:3000"
+
+endpoints:
+  - path: /campaigns
+    method: POST
+  - path: /campaigns/:id
+    method: GET
+  - path: /posts/:id/publish
+    method: POST
+  - path: /schedule
+    method: POST
+  - path: /webhook/social-delivery
+    method: POST
+  - path: /status/:post_id
+    method: GET
