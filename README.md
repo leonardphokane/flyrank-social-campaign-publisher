@@ -253,7 +253,7 @@ This screenshot shows the React UI with caption + image path input fields and th
 ---
 
 ## 📑 Required Files
-`README.md` — this file
+- `README.md` — this file
 
 - `capstone.yaml` — manifest for evaluator
 
