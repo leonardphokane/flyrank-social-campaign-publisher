@@ -253,17 +253,17 @@ This screenshot shows the React UI with caption + image path input fields and th
 ---
 
 ## 📑 Required Files
-README.md — this file
+`README.md` — this file
 
-capstone.yaml — manifest for evaluator
+- `capstone.yaml` — manifest for evaluator
 
-EVIDENCE.md — proofs for definition‑of‑done
+- `EVIDENCE.md` — proofs for definition‑of‑done
 
-BUILDLOG.md — AI usage log
+- `BUILDLOG.md` — AI usage log
 
-.env.example — safe placeholder values
+- `.env.example` — safe placeholder values
 
-.env — runtime secrets (ignored by Git)
+- `.env` — runtime secrets (ignored by Git)
 
 ---
 
