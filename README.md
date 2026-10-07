@@ -279,7 +279,7 @@ MIT License — free to use and learn from.
 
 ---
 ## Portfolio Highlight
-![Portfolio Highlight](images/portfolio-highlight.png)
+![Portfolio Highlight](client/public/images/portfolio-highlight.png)
 *Showcasing backend reliability engineering and LLM integration in a production‑style project.*
 
 ---
